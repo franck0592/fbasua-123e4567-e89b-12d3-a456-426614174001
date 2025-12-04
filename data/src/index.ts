@@ -5,4 +5,8 @@ export * from './lib/entities/organization.entity';
 export * from './lib/entities/role.entity';
 export * from './lib/dtos/task.dto';
 
+// DTOS
+export * from './lib/dtos/create-task.dto';
+export * from './lib/dtos/update-task.dto';
+
 
